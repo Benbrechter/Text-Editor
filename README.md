@@ -1,4 +1,4 @@
-# JATE Text Editor
+# Benbeejammin Text Editor
    ![Github license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Description
@@ -16,7 +16,7 @@
   npm i
 
   ## Contributing guidelines
-  fork the main parank and npm i
+  fork the main project and npm i
 
   ## License 
  This project is licensed under the MIT License.
@@ -27,4 +27,4 @@
   ## Questions
   If you have any questions, you can email me at benbrechter3@gmail.com 
 
-  If you want to see more of my work you can visit my Github at [BenBrechter](https://github.com/undefined)
+  If you want to see more of my work, you can visit my Github at [BenBrechter](https://github.com/undefined)
